@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Quiz Management System
 
 A Python-based interactive quiz application that allows users to attempt randomized questions, track their performance, and receive topic-wise analysis.
