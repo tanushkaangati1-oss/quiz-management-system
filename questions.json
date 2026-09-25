@@ -1,0 +1,197 @@
+[
+    {
+        "question": "What is the time complexity of binary search?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n log n)",
+            "O(1)"
+        ],
+        "answer": "O(log n)",
+        "topic": "Data Structures",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which data structure uses FIFO?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+        ],
+        "answer": "Queue",
+        "topic": "Data Structures",
+        "fail_count": 1,
+        "attempts": 1
+    },
+    {
+        "question": "What does TCP stand for?",
+        "options": [
+            "Transmission Control Protocol",
+            "Transfer Communication Protocol",
+            "Transport Connection Process",
+            "Transmission Communication Process"
+        ],
+        "answer": "Transmission Control Protocol",
+        "topic": "Computer Networks",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which protocol is used to find MAC address from IP?",
+        "options": [
+            "DNS",
+            "ARP",
+            "HTTP",
+            "FTP"
+        ],
+        "answer": "ARP",
+        "topic": "Computer Networks",
+        "fail_count": 0,
+        "attempts": 1
+    },
+    {
+        "question": "What is the derivative of x^2?",
+        "options": [
+            "x",
+            "2x",
+            "x^2",
+            "2"
+        ],
+        "answer": "2x",
+        "topic": "Mathematics",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Evaluate: lim (x\u21920) (sin x / x)",
+        "options": [
+            "0",
+            "1",
+            "Infinity",
+            "-1"
+        ],
+        "answer": "1",
+        "topic": "Mathematics",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which sorting algorithm is stable?",
+        "options": [
+            "Quick Sort",
+            "Merge Sort",
+            "Heap Sort",
+            "Selection Sort"
+        ],
+        "answer": "Merge Sort",
+        "topic": "Algorithms",
+        "fail_count": 0,
+        "attempts": 1
+    },
+    {
+        "question": "Worst-case time complexity of Quick Sort?",
+        "options": [
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)",
+            "O(n)"
+        ],
+        "answer": "O(n^2)",
+        "topic": "Algorithms",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "Standard Query Logic",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language",
+        "topic": "Databases",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which normal form removes transitive dependency?",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "3NF",
+        "topic": "Databases",
+        "fail_count": 0,
+        "attempts": 1
+    },
+    {
+        "question": "What is the output of: print(2 ** 3 ** 2)?",
+        "options": [
+            "64",
+            "512",
+            "256",
+            "128"
+        ],
+        "answer": "512",
+        "topic": "Python",
+        "fail_count": 0,
+        "attempts": 1
+    },
+    {
+        "question": "Which keyword is used for exception handling in Python?",
+        "options": [
+            "catch",
+            "try",
+            "except",
+            "handle"
+        ],
+        "answer": "try",
+        "topic": "Python",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which layer of OSI handles routing?",
+        "options": [
+            "Transport",
+            "Network",
+            "Data Link",
+            "Session"
+        ],
+        "answer": "Network",
+        "topic": "Computer Networks",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "What is the value of 0! ?",
+        "options": [
+            "0",
+            "1",
+            "Undefined",
+            "Infinity"
+        ],
+        "answer": "1",
+        "topic": "Mathematics",
+        "fail_count": 0,
+        "attempts": 0
+    },
+    {
+        "question": "Which traversal gives sorted output in BST?",
+        "options": [
+            "Preorder",
+            "Postorder",
+            "Inorder",
+            "Level Order"
+        ],
+        "answer": "Inorder",
+        "topic": "Data Structures",
+        "fail_count": 0,
+        "attempts": 0
+    }
+]
